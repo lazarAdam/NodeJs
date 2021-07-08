@@ -1,5 +1,6 @@
 web-server/
-task-manager
+task-manager/
+chat-app/
 notes-app/node_modules
 weather-app/node_modules
 task-manager/node_modules
